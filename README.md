@@ -15,7 +15,7 @@ When I'm not debugging container services or exploring CPU architectures, you ca
 
 **Languages & Fundamentals**
 * C / C++
-* RISC-V Assembly
+* Bash Shell
 * Data Structures & Algorithms
 
 **Concepts & Interests**

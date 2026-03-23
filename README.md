@@ -25,10 +25,11 @@ When I'm not debugging container services or exploring CPU architectures, you ca
 
 ## 📈 GitHub Stats
 
-![C0NFR1NG0's GitHub stats](https://github-readme-stats.vercel.app/api?username=C0NFR1NGO&show_icons=true&theme=radium)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0NFR1NGO&layout=compact&theme=radium)
-
-## 📫 Let's Connect
+[![C0NFR1NGO's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=C0NFR1NGO&theme=radium&hide_border=true)](https://github.com/C0NFR1NGO)
+[![C0NFR1NGO's Trophies](https://github-profile-trophy.vercel.app/?username=C0NFR1NGO&theme=radium&no-frame=true&no-bg=true&margin-w=15)](https://github.com/C0NFR1NGO)
+![Followers](https://img.shields.io/github/followers/C0NFR1NGO?style=for-the-badge&color=blue)
+![Stars](https://img.shields.io/github/stars/C0NFR1NGO?style=for-the-badge&color=yellow)
+![Commits](https://img.shields.io/github/commit-activity/y/C0NFR1NGO/YOUR_MAIN_REPO?style=for-the-badge&color=green)
 
 * **LinkedIn:** [linkedin.com/in/shreyas-rane-6069b0251](https://linkedin.com/in/shreyas-rane-6069b0251)
 * **Email:** [shreyasrane6@gmail.com](mailto:your.email@example.com)

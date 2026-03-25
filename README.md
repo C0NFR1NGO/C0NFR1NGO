@@ -21,7 +21,7 @@ When I'm not debugging container services or exploring CPU architectures, you ca
 **Concepts & Interests**
 * Computer Architecture (CPU performance, ALUs)
 * Data Structures and Program Design
-* Operating Systems and Cybersecurity
+* Operating Systems and Cybersecurity <br>
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white) <br>
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) <br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) <br>

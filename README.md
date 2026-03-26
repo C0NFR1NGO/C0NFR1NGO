@@ -1,7 +1,7 @@
 # Hi there, I'm Shreyas Rane! 👋 
 ### aka C0NFR1NG0
 
-<img src="https://i.pinimg.com/originals/60/51/5e/60515eca291621e67d0bb58f9df9e70d.gif" width="100%"/>
+<img src="https://i.pinimg.com/736x/b1/80/a6/b180a6be04712f801619bc6690e228a0.jpg" width="100%"/>
 
 I'm a Computer Science and Engineering student at Visvesvaraya National Institute of Technology (VNIT), originally from Pune, India. I have a strong passion for low-level programming, computer hardware and cybersecurity.
 

@@ -10,7 +10,7 @@ When I'm not debugging container services or exploring CPU architectures, you ca
 ## 🚀 About Me
 
 * 🎓 **Education:** Pursuing a B.Tech in Computer Science & Engineering at VNIT.
-* 💻 **Core Interests:** C programming, Computer Architecture, and Data Structures & Algorithms.
+* 💻 **Core Interests:** C programming, Cybersecurity and Cryptography, and Data Structures & Algorithms.
 * 🐧 **Tinkering:** I enjoy diving into open-source tools and troubleshooting environments like Waydroid.
 
 ## 🛠️ Tech Stack & Tools

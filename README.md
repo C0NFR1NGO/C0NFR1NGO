@@ -16,7 +16,7 @@ When I'm not debugging container services or exploring CPU architectures, you ca
 ## 🛠️ Tech Stack & Tools
 
 **Languages & Fundamentals**
-* C / C++
+* C / C++ / Python
 * Bash Shell
 * Data Structures & Algorithms
 
